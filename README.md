@@ -23,7 +23,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | ------- | ---- | ----- |
 | Ayudantía 1 | ASP y Clingo                                     | 16/08/2023 |
 | Ayudantía 2 | Negación y modelación en Clingo	                 | 23/08/2023 |
-| Ayudantía 3 | Repaso Tarea 2                                   | 30/09/2023 |
+| Ayudantía 3 | Repaso Tarea 2                                   | 30/08/2023 |
 | Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)         | 06/09/2023 |
 | Ayudantía 5 | A* y Heurísticas	                               | 13/09/2023 |
 | Ayudantía 6 | Búsqueda en juegos y MinMax	                     | 27/09/2023 |
@@ -80,7 +80,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
 - **T4 (21/10 &rarr; 04/11)**
   - Contenidos: Árboles de Decisión y SVM
 
-- **T5 (11/11 &rarr; 25/12)**
+- **T5 (11/11 &rarr; 25/11)**
   - Contenidos: Redes Neuronales y Aprendizaje Reforzado
 
 ## Programa y administración
