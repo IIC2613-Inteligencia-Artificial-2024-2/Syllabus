@@ -55,7 +55,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Randall Fabrizio Biermann Olivari          | Ayudante | - | [@FabriRandon](https://github.com/FabriRandon) |
 | Sofía Rosario Hosiasson Retamal            | Ayudante | - | [@Sofiasson](https://github.com/Sofiasson) |
 | Juan José Alonso Lecaros                   | Ayudante | - | [@jalonsoluc](https://github.com/jalonsoluc) |
-| Amanda Sandoval Kuncar                   | Ayudante | - | - |
+| Amanda Sandoval Kuncar                     | Ayudante | - | [@Amandasandov](https://github.com/Amandasandov)|
 
 
 
