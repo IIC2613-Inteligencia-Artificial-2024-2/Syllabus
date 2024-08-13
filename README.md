@@ -43,6 +43,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Jorge Baier                                | Profesor  | jabaier@ing.puc.cl |  |
 | Hans Löbel                                 | Profesor  | halobel@ing.puc.cl | [@halobel](https://github.com/halobel) |
 | Ignacio Antonio Villanueva Domínguez       | Ayudante Coordinador | ignacio.villanueva@uc.cl | [@ignaciovilla](https://github.com/ignaciovilla) |
+| Bárbara Carolina Alfaro Bugueño            | Ayudante de Bienestar | bcalfaro@uc.cl |  |
 | Blanca María Romero Dussaillant            | Ayudante | - | [@blanca-romero](https://github.com/blanca-romero) |
 | Martín José Vial Díaz                      | Ayudante | - | [@Martinviald](https://github.com/Martinviald) |
 | Martín Eduardo Castillo González           | Ayudante | - | [@MartinCastillo](https://github.com/MartinCastillo) |
