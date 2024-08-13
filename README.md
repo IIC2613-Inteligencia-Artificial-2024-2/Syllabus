@@ -23,7 +23,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | ------- | ---- | ----- |
 | Ayudantía 1 | ASP y Clingo                                     | 16/08/2023 |
 | Ayudantía 2 | Negación y modelación en Clingo	                 | 23/08/2023 |
-| Ayudantía 3 | Repaso Tarea 2                                   | 30/09/2023 |
+| Ayudantía 3 | Repaso Tarea 2                                   | 30/08/2023 |
 | Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)         | 06/09/2023 |
 | Ayudantía 5 | A* y Heurísticas	                               | 13/09/2023 |
 | Ayudantía 6 | Búsqueda en juegos y MinMax	                     | 27/09/2023 |
@@ -40,9 +40,25 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 
 | Nombre  | Cargo | Email | Github |
 | -------------- | ------ | ---------------- | ----------- |
-| Jorge Baier | Profesor  | jabaier@ing.puc.cl |  |
-| Hans Löbel | Profesor  | halobel@ing.puc.cl | [@halobel](https://github.com/halobel) |
-| Ignacio Antonio Villanueva Domínguez | Ayudante Coordinador | ignacio.villanueva@uc.cl | [@ignaciovilla](https://github.com/ignaciovilla)
+| Jorge Baier                                | Profesor  | jabaier@ing.puc.cl |  |
+| Hans Löbel                                 | Profesor  | halobel@ing.puc.cl | [@halobel](https://github.com/halobel) |
+| Ignacio Antonio Villanueva Domínguez       | Ayudante Coordinador | ignacio.villanueva@uc.cl | [@ignaciovilla](https://github.com/ignaciovilla) |
+| Bárbara Carolina Alfaro Bugueño            | Ayudante de Bienestar | bcalfaro@uc.cl |  |
+| Blanca María Romero Dussaillant            | Ayudante |  | [@blanca-romero](https://github.com/blanca-romero) |
+| Martín José Vial Díaz                      | Ayudante |  | [@Martinviald](https://github.com/Martinviald) |
+| Martín Eduardo Castillo González           | Ayudante |  | [@MartinCastillo](https://github.com/MartinCastillo) |
+| Gonzalo Patricio Fuentes Olivares          | Ayudante |  | [@GonzaloFuentes1](https://github.com/GonzaloFuentes1) |
+| Felipe Ignacio Villagrán Alfaro            | Ayudante |  | [@BibarelUsedFly](https://github.com/BibarelUsedFly) |
+| Bernardita Paz Rosas Riveros               | Ayudante |  | [@bernirosas](https://github.com/bernirosas) |
+| Carlos Sebastián Stappung Sfeir            | Ayudante |  | [@cstappung ](https://github.com/cstappung ) |
+| Bernardita María de Jesús Alliende         | Ayudante |  | [@balliende](https://github.com/balliende) |
+| Jerónimo Infante Larraín                   | Ayudante |  | [@jinfantel](https://github.com/jinfantel) |
+| Randall Fabrizio Biermann Olivari          | Ayudante |  | [@FabriRandon](https://github.com/FabriRandon) |
+| Sofía Rosario Hosiasson Retamal            | Ayudante |  | [@Sofiasson](https://github.com/Sofiasson) |
+| Juan José Alonso Lecaros                   | Ayudante |  | [@jalonsoluc](https://github.com/jalonsoluc) |
+| Amanda Sandoval Kuncar                     | Ayudante |  | [@Amandasandov](https://github.com/Amandasandov)|
+
+
 
 ## Evaluaciones
 
@@ -80,7 +96,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
 - **T4 (21/10 &rarr; 04/11)**
   - Contenidos: Árboles de Decisión y SVM
 
-- **T5 (11/11 &rarr; 25/12)**
+- **T5 (11/11 &rarr; 25/11)**
   - Contenidos: Redes Neuronales y Aprendizaje Reforzado
 
 ## Programa y administración
