@@ -19,22 +19,22 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 
 ## Ayudantías
 *Las fechas y temáticas de las ayudantías están sujetas a cambio a lo largo del semestre*
-| Número  | Tema | Fecha |
-| ------- | ---- | ----- |
-| Ayudantía 1 | ASP y Clingo                                     | 16/08/2023 |
-| Ayudantía 2 | Negación y modelación en Clingo	                 | 23/08/2023 |
-| Ayudantía 3 | Repaso Tarea 2                                   | 30/08/2023 |
-| Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)         | 06/09/2023 |
-| Ayudantía 5 | A* y Heurísticas	                               | 13/09/2023 |
-| Ayudantía 6 | Búsqueda en juegos y MinMax	                     | 27/09/2023 |
-| Ayudantía 7 | Intro a ML, uso de pandas, numpy y sklearn	     | 04/10/2023 |
-| Ayudantía 8 | Árboles de Decisión y Ensambles	                 | 11/10/2023 |
-| Ayudantía 9 | Gradient Boosting y SVM                          | 18/10/2023 |
-| Ayudantía 10 | SVM Parte 2: Funciones de Kernel y Exemplar SVM | 25/10/2023 |
-| Ayudantía 11 | Aprendizaje reforzado y Q-Learning              | 08/11/2023 |
-| Ayudantía 12 | Redes Neuronales                                | 15/11/2023 |
-| Ayudantía 13 | Redes Convolucionales y otras arquitecturas     | 22/11/2023 |
-| Ayudantía 14 | Otras arquitecturas                             | 29/11/2023 |
+| Número  | Tema | Fecha | Enunciado |
+| ------- | ---- | ----- | --------- |
+| Ayudantía 1 | ASP y Clingo                                     | 16/08/2023 | [Enunciado] (https://github.com/IIC2613-Inteligencia-Artificial-2024-2/Syllabus/blob/main/Ayudant%C3%ADas/Ayudant%C3%ADa%201%20IIC2613%20-%20ASP%20y%20Clingo%2C%20Instalaci%C3%B3n%20Clingo.pdf) |
+| Ayudantía 2 | Negación y modelación en Clingo	                 | 23/08/2023 | - |
+| Ayudantía 3 | Repaso Tarea 2                                   | 30/08/2023 | - |
+| Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)         | 06/09/2023 | - |
+| Ayudantía 5 | A* y Heurísticas	                               | 13/09/2023 | - |
+| Ayudantía 6 | Búsqueda en juegos y MinMax	                     | 27/09/2023 | - |
+| Ayudantía 7 | Intro a ML, uso de pandas, numpy y sklearn	     | 04/10/2023 | - |
+| Ayudantía 8 | Árboles de Decisión y Ensambles	                 | 11/10/2023 | - |
+| Ayudantía 9 | Gradient Boosting y SVM                          | 18/10/2023 | - |
+| Ayudantía 10 | SVM Parte 2: Funciones de Kernel y Exemplar SVM | 25/10/2023 | - |
+| Ayudantía 11 | Aprendizaje reforzado y Q-Learning              | 08/11/2023 | - |
+| Ayudantía 12 | Redes Neuronales                                | 15/11/2023 | - |
+| Ayudantía 13 | Redes Convolucionales y otras arquitecturas     | 22/11/2023 | - |
+| Ayudantía 14 | Otras arquitecturas                             | 29/11/2023 | - |
 
 ## Equipo
 
