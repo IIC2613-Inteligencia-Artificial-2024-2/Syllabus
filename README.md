@@ -21,7 +21,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 *Las fechas y temáticas de las ayudantías están sujetas a cambio a lo largo del semestre*
 | Número  | Tema | Fecha | Enunciado |
 | ------- | ---- | ----- | --------- |
-| Ayudantía 1 | ASP y Clingo                                     | 16/08/2023 | [Enunciado] (https://github.com/IIC2613-Inteligencia-Artificial-2024-2/Syllabus/blob/main/Ayudant%C3%ADas/Ayudant%C3%ADa%201%20IIC2613%20-%20ASP%20y%20Clingo%2C%20Instalaci%C3%B3n%20Clingo.pdf) |
+| Ayudantía 1 | ASP y Clingo                                     | 16/08/2023 | [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2024-2/Syllabus/blob/main/Ayudant%C3%ADas/Ayudant%C3%ADa%201%20IIC2613%20-%20ASP%20y%20Clingo%2C%20Instalaci%C3%B3n%20Clingo.pdf) |
 | Ayudantía 2 | Negación y modelación en Clingo	                 | 23/08/2023 | - |
 | Ayudantía 3 | Repaso Tarea 2                                   | 30/08/2023 | - |
 | Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)         | 06/09/2023 | - |
